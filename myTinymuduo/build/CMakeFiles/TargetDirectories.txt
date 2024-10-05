@@ -1,0 +1,16 @@
+/home/user/myTinymuduo/build/CMakeFiles/rebuild_cache.dir
+/home/user/myTinymuduo/build/CMakeFiles/a.out.dir
+/home/user/myTinymuduo/build/CMakeFiles/edit_cache.dir
+/home/user/myTinymuduo/build/resoure/CMakeFiles/rebuild_cache.dir
+/home/user/myTinymuduo/build/resoure/CMakeFiles/muduotext.dir
+/home/user/myTinymuduo/build/resoure/CMakeFiles/edit_cache.dir
+/home/user/myTinymuduo/build/base/text/CMakeFiles/rebuild_cache.dir
+/home/user/myTinymuduo/build/base/text/CMakeFiles/loger.dir
+/home/user/myTinymuduo/build/base/text/CMakeFiles/edit_cache.dir
+/home/user/myTinymuduo/build/base/CMakeFiles/rebuild_cache.dir
+/home/user/myTinymuduo/build/base/CMakeFiles/log.dir
+/home/user/myTinymuduo/build/base/CMakeFiles/edit_cache.dir
+/home/user/myTinymuduo/build/Http/CMakeFiles/rebuild_cache.dir
+/home/user/myTinymuduo/build/Http/CMakeFiles/edit_cache.dir
+/home/user/myTinymuduo/build/Http/CMakeFiles/http.dir
+/home/user/myTinymuduo/build/Http/CMakeFiles/HTTPSERVER.dir

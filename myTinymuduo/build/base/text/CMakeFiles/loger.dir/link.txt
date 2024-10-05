@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/loger.dir/asynclog.cpp.o  -o ../../../out/loger  -L/home/user/myTinymuduo/lib -Wl,-rpath,/home/user/myTinymuduo/lib ../../../lib/liblog.a ../../../lib/libmuduotext.a -lpthread 

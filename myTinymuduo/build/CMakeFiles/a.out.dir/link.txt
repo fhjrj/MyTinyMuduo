@@ -1,0 +1,1 @@
+/usr/bin/c++  -fPIC  -rdynamic CMakeFiles/a.out.dir/text.o  -o ../out/a.out  -L/home/user/myTinymuduo/lib -Wl,-rpath,/home/user/myTinymuduo/lib ../lib/libmuduotext.a -lpthread 
