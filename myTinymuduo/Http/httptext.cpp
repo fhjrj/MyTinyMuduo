@@ -44,7 +44,6 @@ void onRequest(const HttpRequest& req, HttpRespne* resp)
     }
     else if (req.path() == "/hello")
     {   
-        std::cout<<11345<<std::endl;
         resp->setStatusCode(HttpRespne::HttpStatusCode::K200OK);
         resp->setStatusMessage("OK");
         resp->setContentType("text/plain");
